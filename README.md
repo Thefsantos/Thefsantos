@@ -5,6 +5,8 @@
 
 ![Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Thefsantos&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefsantos&layout=donut)
+
 ## Tecnologia que estou aprendendo e usando no dia a dia
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
